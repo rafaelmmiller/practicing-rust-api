@@ -30,3 +30,10 @@ Webhook implementation (?)
 ## 4th Project
 
 Websocket implementation. Online game? idk
+
+
+---
+
+Learning log:
+
+- wtf with that many mod.rs files?
